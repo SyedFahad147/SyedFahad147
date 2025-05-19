@@ -44,9 +44,6 @@ Collaborating closely with designers, product managers, and backend engineers to
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
-  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs">
-  <img src="https://img.shields.io/badge/Third%20Party%20APIs-555555?style=for-the-badge" alt="Third Party API Integrations">
-  <img src="https://img.shields.io/badge/AI%20Integrations-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integrations">
 </p>
 </details>
 
