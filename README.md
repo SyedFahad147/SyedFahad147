@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-💻 I’m a Front-End Developer with over 2 years of hands-on experience specializing in creating dynamic, scalable, and high-performance web applications. I have a deep passion for transforming complex concepts into intuitive, responsive, and engaging user interfaces that deliver seamless user experiences.
+💻 I’m a Front-End Developer with over 2.5 years of hands-on experience specializing in creating dynamic, scalable, and high-performance web applications. I have a deep passion for transforming complex concepts into intuitive, responsive, and engaging user interfaces that deliver seamless user experiences.
 
 ⚙️ My technical toolkit is built around React JS, Next JS, JavaScript, TypeScript, Tailwind CSS, and Material UI (MUI), complemented by a solid understanding of RESTful API integration and modern front-end development best practices. I have experience working in both agile startup environments and structured development teams, allowing me to adapt quickly to new challenges and technologies.
 
